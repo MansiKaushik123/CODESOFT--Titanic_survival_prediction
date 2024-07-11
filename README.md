@@ -31,3 +31,18 @@ sibsp: This dataset describes family relationships as follows:
 Sibling: Brother, sister, stepbrother, or stepsister Spouse: Husband or wife (excluding mistresses and fiancés) parch: This dataset describes family relationships as follows:
 
 Parent: Mother or father Child: Daughter, son, stepdaughter, or stepson. Note that some children traveled only with a nanny, so for them, parch=0.
+
+
+**#Predict survival on the Titanic**
+
+Defining the problem statement:
+
+1.Collecting the data
+
+2.Exploratory data analysis
+
+3.Feature engineering
+
+4.Modelling
+
+5.Testing
