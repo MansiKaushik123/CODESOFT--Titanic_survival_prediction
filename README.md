@@ -47,7 +47,7 @@ Defining the problem statement:
 
 5.Exploratory Data Analysis
 
-5.Testing
+
 
 
 ![wrap-up-and-thank-you-e-blast-1536x768](https://github.com/MansiKaushik123/CODESOFT--Titanic_survival_prediction/assets/140509411/ea746b5f-193a-4156-a2d2-e624471d8473)
