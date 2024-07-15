@@ -39,11 +39,13 @@ Defining the problem statement:
 
 1.Collecting the data
 
-2.Exploratory data analysis
+2.Checking and Handeling Null values
 
-3.Feature engineering
+3.Checking and Handling Null Values
 
-4.Modelling
+4.Model Evaluation
+
+5.Exploratory Data Analysis
 
 5.Testing
 
